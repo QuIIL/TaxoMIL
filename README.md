@@ -2,13 +2,7 @@
 
 Official implementation of **TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis**.
 
-## Abstract
-
-Accurate histopathological diagnosis naturally follows a coarse-to-fine reasoning process, while many existing whole-slide image models treat labels as flat categories.
-
-We propose **TaxoMIL**, a taxonomy-constrained multiple instance learning framework for hierarchical WSI analysis. TaxoMIL formulates WSI diagnosis as a multi-granularity text generation problem, predicting both coarse-level and fine-level diagnostic labels. The model combines a MIL backbone, dual-branch multimodal conditioning, and a dual-head text decoder. To encourage taxonomy-aware predictions, TaxoMIL introduces hierarchy-guided label regularization, image-text alignment, and supervised contrastive learning.
-
-Experiments on multiple WSI datasets show that TaxoMIL improves both fine-grained discrimination and coarse-to-fine consistency.
+<img width="2957" height="1241" alt="pipeline" src="https://github.com/user-attachments/assets/b33f6151-6fff-4df5-90d9-7c9b420a04d3" />
 
 ## Framework
 
