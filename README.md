@@ -18,7 +18,7 @@ The framework is trained with text generation loss and taxonomy-guided auxiliary
 ## Installation
 
 ```bash
-git clone https://github.com/your-id/TaxoMIL.git
+git clone https://github.com/chaey0/TaxoMIL.git
 cd TaxoMIL
 
 conda create -n taxomil python=3.10 -y
