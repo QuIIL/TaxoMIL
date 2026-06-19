@@ -1,0 +1,14 @@
+{
+  "base_templates": [
+    "The observed condition in the {domain} image is: ",
+    "The diagnosis for the {domain} image shows signs of: ",
+    "The medical findings for this image indicate: ",
+    "This {domain} image reveals the presence of: ",
+    "The condition detected in the {domain} image is: ",
+    "The histopathological observation in this image suggests: ",
+    "The pathology result from this {domain} image describes: ",
+    "The condition diagnosed from the image analysis is: ",
+    "The elements detected in the {domain} region of the image are: ",
+    "The visible medical observation in the image corresponds to: "
+  ]
+}

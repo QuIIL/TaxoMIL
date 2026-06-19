@@ -1,0 +1,546 @@
+case_id,slide_id,coarse_label,fine_label,split,UNI_features_path
+BRACS_3273,BRACS_3273,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_3273.pt
+BRACS_1357,BRACS_1357,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1357.pt
+BRACS_1003677,BRACS_1003677,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003677.pt
+BRACS_1405,BRACS_1405,Benign,Normal,train,bracs_feature_path/BRACS_1405.pt
+BRACS_1296,BRACS_1296,Benign,Normal,train,bracs_feature_path/BRACS_1296.pt
+BRACS_1832,BRACS_1832,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1832.pt
+BRACS_1772,BRACS_1772,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1772.pt
+BRACS_1912,BRACS_1912,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1912.pt
+BRACS_1797,BRACS_1797,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1797.pt
+BRACS_1601,BRACS_1601,Benign,Normal,train,bracs_feature_path/BRACS_1601.pt
+BRACS_297,BRACS_297,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_297.pt
+BRACS_1367,BRACS_1367,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1367.pt
+BRACS_1590,BRACS_1590,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1590.pt
+BRACS_1598,BRACS_1598,Benign,Normal,train,bracs_feature_path/BRACS_1598.pt
+BRACS_1979,BRACS_1979,Benign,Normal,train,bracs_feature_path/BRACS_1979.pt
+BRACS_1392,BRACS_1392,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1392.pt
+BRACS_1368,BRACS_1368,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1368.pt
+BRACS_1277,BRACS_1277,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1277.pt
+BRACS_3322,BRACS_3322,Benign,Normal,train,bracs_feature_path/BRACS_3322.pt
+BRACS_739,BRACS_739,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_739.pt
+BRACS_1335,BRACS_1335,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1335.pt
+BRACS_1655,BRACS_1655,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1655.pt
+BRACS_3296,BRACS_3296,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3296.pt
+BRACS_1669,BRACS_1669,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1669.pt
+BRACS_1998,BRACS_1998,Benign,Normal,train,bracs_feature_path/BRACS_1998.pt
+BRACS_283,BRACS_283,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_283.pt
+BRACS_1936,BRACS_1936,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1936.pt
+BRACS_1782,BRACS_1782,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1782.pt
+BRACS_743,BRACS_743,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_743.pt
+BRACS_1609,BRACS_1609,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1609.pt
+BRACS_1327,BRACS_1327,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1327.pt
+BRACS_301,BRACS_301,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_301.pt
+BRACS_1360,BRACS_1360,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1360.pt
+BRACS_736,BRACS_736,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_736.pt
+BRACS_1813,BRACS_1813,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1813.pt
+BRACS_1987,BRACS_1987,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1987.pt
+BRACS_1833,BRACS_1833,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1833.pt
+BRACS_1817,BRACS_1817,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1817.pt
+BRACS_264,BRACS_264,Benign,Pathological Benign,train,bracs_feature_path/BRACS_264.pt
+BRACS_1935,BRACS_1935,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1935.pt
+BRACS_1649,BRACS_1649,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1649.pt
+BRACS_1003697,BRACS_1003697,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1003697.pt
+BRACS_1356,BRACS_1356,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1356.pt
+BRACS_1810,BRACS_1810,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1810.pt
+BRACS_1856,BRACS_1856,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1856.pt
+BRACS_1918,BRACS_1918,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1918.pt
+BRACS_1378,BRACS_1378,Benign,Normal,train,bracs_feature_path/BRACS_1378.pt
+BRACS_1617,BRACS_1617,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1617.pt
+BRACS_1954,BRACS_1954,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1954.pt
+BRACS_3300,BRACS_3300,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3300.pt
+BRACS_1233,BRACS_1233,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1233.pt
+BRACS_1798,BRACS_1798,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1798.pt
+BRACS_1964,BRACS_1964,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1964.pt
+BRACS_3282,BRACS_3282,Benign,Normal,train,bracs_feature_path/BRACS_3282.pt
+BRACS_1844,BRACS_1844,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1844.pt
+BRACS_3337,BRACS_3337,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3337.pt
+BRACS_734,BRACS_734,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_734.pt
+BRACS_1983,BRACS_1983,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1983.pt
+BRACS_1948,BRACS_1948,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1948.pt
+BRACS_1938,BRACS_1938,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1938.pt
+BRACS_3316,BRACS_3316,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3316.pt
+BRACS_1003730,BRACS_1003730,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003730.pt
+BRACS_1864,BRACS_1864,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1864.pt
+BRACS_1908,BRACS_1908,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1908.pt
+BRACS_1903,BRACS_1903,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1903.pt
+BRACS_1379,BRACS_1379,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1379.pt
+BRACS_1336,BRACS_1336,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1336.pt
+BRACS_1783,BRACS_1783,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1783.pt
+BRACS_1905,BRACS_1905,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1905.pt
+BRACS_1358,BRACS_1358,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1358.pt
+BRACS_1003710,BRACS_1003710,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003710.pt
+BRACS_1638,BRACS_1638,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1638.pt
+BRACS_1003669,BRACS_1003669,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003669.pt
+BRACS_1374,BRACS_1374,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1374.pt
+BRACS_1846,BRACS_1846,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1846.pt
+BRACS_1338,BRACS_1338,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1338.pt
+BRACS_1869,BRACS_1869,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1869.pt
+BRACS_1841,BRACS_1841,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1841.pt
+BRACS_1325,BRACS_1325,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1325.pt
+BRACS_1981,BRACS_1981,Benign,Normal,train,bracs_feature_path/BRACS_1981.pt
+BRACS_1319,BRACS_1319,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1319.pt
+BRACS_2001,BRACS_2001,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_2001.pt
+BRACS_1490,BRACS_1490,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1490.pt
+BRACS_1386,BRACS_1386,Benign,Normal,train,bracs_feature_path/BRACS_1386.pt
+BRACS_3295,BRACS_3295,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3295.pt
+BRACS_1239,BRACS_1239,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1239.pt
+BRACS_1393,BRACS_1393,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1393.pt
+BRACS_1999,BRACS_1999,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1999.pt
+BRACS_280,BRACS_280,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_280.pt
+BRACS_745,BRACS_745,Benign,Pathological Benign,train,bracs_feature_path/BRACS_745.pt
+BRACS_1934,BRACS_1934,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1934.pt
+BRACS_758,BRACS_758,Benign,Pathological Benign,train,bracs_feature_path/BRACS_758.pt
+BRACS_1003692,BRACS_1003692,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003692.pt
+BRACS_1779,BRACS_1779,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1779.pt
+BRACS_1404,BRACS_1404,Benign,Normal,train,bracs_feature_path/BRACS_1404.pt
+BRACS_1509,BRACS_1509,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1509.pt
+BRACS_1603,BRACS_1603,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1603.pt
+BRACS_1621,BRACS_1621,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1621.pt
+BRACS_1486,BRACS_1486,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1486.pt
+BRACS_1639,BRACS_1639,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1639.pt
+BRACS_1941,BRACS_1941,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1941.pt
+BRACS_754,BRACS_754,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_754.pt
+BRACS_1831,BRACS_1831,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1831.pt
+BRACS_1643,BRACS_1643,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1643.pt
+BRACS_750,BRACS_750,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_750.pt
+BRACS_1003672,BRACS_1003672,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003672.pt
+BRACS_1248,BRACS_1248,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1248.pt
+BRACS_1274,BRACS_1274,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1274.pt
+BRACS_1646,BRACS_1646,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1646.pt
+BRACS_1259,BRACS_1259,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1259.pt
+BRACS_1408,BRACS_1408,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1408.pt
+BRACS_3310,BRACS_3310,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_3310.pt
+BRACS_1473,BRACS_1473,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1473.pt
+BRACS_1945,BRACS_1945,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1945.pt
+BRACS_1882,BRACS_1882,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1882.pt
+BRACS_1003661,BRACS_1003661,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1003661.pt
+BRACS_1944,BRACS_1944,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1944.pt
+BRACS_1608,BRACS_1608,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1608.pt
+BRACS_1003678,BRACS_1003678,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003678.pt
+BRACS_1003686,BRACS_1003686,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003686.pt
+BRACS_1883,BRACS_1883,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1883.pt
+BRACS_1993,BRACS_1993,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1993.pt
+BRACS_1003703,BRACS_1003703,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003703.pt
+BRACS_1003706,BRACS_1003706,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003706.pt
+BRACS_1658,BRACS_1658,Benign,Normal,train,bracs_feature_path/BRACS_1658.pt
+BRACS_3301,BRACS_3301,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3301.pt
+BRACS_1668,BRACS_1668,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1668.pt
+BRACS_1003734,BRACS_1003734,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003734.pt
+BRACS_1326,BRACS_1326,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1326.pt
+BRACS_3294,BRACS_3294,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3294.pt
+BRACS_3308,BRACS_3308,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3308.pt
+BRACS_1604,BRACS_1604,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1604.pt
+BRACS_1667,BRACS_1667,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1667.pt
+BRACS_1516,BRACS_1516,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1516.pt
+BRACS_1003727,BRACS_1003727,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003727.pt
+BRACS_1885,BRACS_1885,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1885.pt
+BRACS_1423,BRACS_1423,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1423.pt
+BRACS_1660,BRACS_1660,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1660.pt
+BRACS_1003698,BRACS_1003698,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003698.pt
+BRACS_1995,BRACS_1995,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1995.pt
+BRACS_1977,BRACS_1977,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1977.pt
+BRACS_1003718,BRACS_1003718,Benign,Normal,train,bracs_feature_path/BRACS_1003718.pt
+BRACS_1880,BRACS_1880,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1880.pt
+BRACS_1996,BRACS_1996,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1996.pt
+BRACS_1906,BRACS_1906,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1906.pt
+BRACS_1843,BRACS_1843,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1843.pt
+BRACS_755,BRACS_755,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_755.pt
+BRACS_1003709,BRACS_1003709,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003709.pt
+BRACS_1279,BRACS_1279,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1279.pt
+BRACS_1871,BRACS_1871,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1871.pt
+BRACS_1957,BRACS_1957,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1957.pt
+BRACS_1003708,BRACS_1003708,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003708.pt
+BRACS_1928,BRACS_1928,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1928.pt
+BRACS_1960,BRACS_1960,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1960.pt
+BRACS_1003694,BRACS_1003694,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1003694.pt
+BRACS_1858,BRACS_1858,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1858.pt
+BRACS_761,BRACS_761,Benign,Pathological Benign,train,bracs_feature_path/BRACS_761.pt
+BRACS_1966,BRACS_1966,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1966.pt
+BRACS_1251,BRACS_1251,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1251.pt
+BRACS_286,BRACS_286,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_286.pt
+BRACS_1599,BRACS_1599,Benign,Normal,train,bracs_feature_path/BRACS_1599.pt
+BRACS_1794,BRACS_1794,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1794.pt
+BRACS_1867,BRACS_1867,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1867.pt
+BRACS_1645,BRACS_1645,Benign,Normal,train,bracs_feature_path/BRACS_1645.pt
+BRACS_1582,BRACS_1582,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1582.pt
+BRACS_1003685,BRACS_1003685,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1003685.pt
+BRACS_1003700,BRACS_1003700,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003700.pt
+BRACS_1235,BRACS_1235,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1235.pt
+BRACS_1499,BRACS_1499,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1499.pt
+BRACS_1861,BRACS_1861,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1861.pt
+BRACS_1910,BRACS_1910,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1910.pt
+BRACS_1773,BRACS_1773,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1773.pt
+BRACS_1287,BRACS_1287,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1287.pt
+BRACS_1902,BRACS_1902,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1902.pt
+BRACS_760,BRACS_760,Benign,Pathological Benign,train,bracs_feature_path/BRACS_760.pt
+BRACS_753,BRACS_753,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_753.pt
+BRACS_1283,BRACS_1283,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1283.pt
+BRACS_1322,BRACS_1322,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1322.pt
+BRACS_1888,BRACS_1888,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1888.pt
+BRACS_1946,BRACS_1946,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1946.pt
+BRACS_1924,BRACS_1924,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1924.pt
+BRACS_1003668,BRACS_1003668,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003668.pt
+BRACS_1409,BRACS_1409,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1409.pt
+BRACS_1777,BRACS_1777,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1777.pt
+BRACS_1791,BRACS_1791,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1791.pt
+BRACS_1913,BRACS_1913,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1913.pt
+BRACS_759,BRACS_759,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_759.pt
+BRACS_1395,BRACS_1395,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1395.pt
+BRACS_1892,BRACS_1892,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1892.pt
+BRACS_1799,BRACS_1799,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1799.pt
+BRACS_295,BRACS_295,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_295.pt
+BRACS_1508,BRACS_1508,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1508.pt
+BRACS_1257,BRACS_1257,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1257.pt
+BRACS_3268,BRACS_3268,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3268.pt
+BRACS_3269,BRACS_3269,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3269.pt
+BRACS_752,BRACS_752,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_752.pt
+BRACS_1265,BRACS_1265,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1265.pt
+BRACS_1827,BRACS_1827,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1827.pt
+BRACS_1476,BRACS_1476,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1476.pt
+BRACS_288,BRACS_288,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_288.pt
+BRACS_1931,BRACS_1931,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1931.pt
+BRACS_3315,BRACS_3315,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3315.pt
+BRACS_1292,BRACS_1292,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1292.pt
+BRACS_1795,BRACS_1795,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1795.pt
+BRACS_1953,BRACS_1953,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1953.pt
+BRACS_1496,BRACS_1496,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1496.pt
+BRACS_1003684,BRACS_1003684,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003684.pt
+BRACS_1988,BRACS_1988,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1988.pt
+BRACS_1232,BRACS_1232,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1232.pt
+BRACS_1879,BRACS_1879,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1879.pt
+BRACS_1834,BRACS_1834,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1834.pt
+BRACS_762,BRACS_762,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_762.pt
+BRACS_298,BRACS_298,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_298.pt
+BRACS_1778,BRACS_1778,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1778.pt
+BRACS_1269,BRACS_1269,Benign,Normal,train,bracs_feature_path/BRACS_1269.pt
+BRACS_1494,BRACS_1494,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1494.pt
+BRACS_1244,BRACS_1244,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1244.pt
+BRACS_1648,BRACS_1648,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1648.pt
+BRACS_1876,BRACS_1876,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1876.pt
+BRACS_1510,BRACS_1510,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1510.pt
+BRACS_1411,BRACS_1411,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1411.pt
+BRACS_1506,BRACS_1506,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1506.pt
+BRACS_1632,BRACS_1632,Benign,Normal,train,bracs_feature_path/BRACS_1632.pt
+BRACS_1816,BRACS_1816,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1816.pt
+BRACS_1771,BRACS_1771,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1771.pt
+BRACS_1003715,BRACS_1003715,Benign,Normal,train,bracs_feature_path/BRACS_1003715.pt
+BRACS_1874,BRACS_1874,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1874.pt
+BRACS_1634,BRACS_1634,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1634.pt
+BRACS_1793,BRACS_1793,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1793.pt
+BRACS_1588,BRACS_1588,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1588.pt
+BRACS_1821,BRACS_1821,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1821.pt
+BRACS_1911,BRACS_1911,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1911.pt
+BRACS_1969,BRACS_1969,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1969.pt
+BRACS_1503,BRACS_1503,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1503.pt
+BRACS_1584,BRACS_1584,Benign,Normal,train,bracs_feature_path/BRACS_1584.pt
+BRACS_1622,BRACS_1622,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1622.pt
+BRACS_1578,BRACS_1578,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1578.pt
+BRACS_1324,BRACS_1324,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1324.pt
+BRACS_1961,BRACS_1961,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1961.pt
+BRACS_1866,BRACS_1866,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1866.pt
+BRACS_1661,BRACS_1661,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1661.pt
+BRACS_1786,BRACS_1786,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1786.pt
+BRACS_3292,BRACS_3292,Benign,Normal,train,bracs_feature_path/BRACS_3292.pt
+BRACS_1619,BRACS_1619,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1619.pt
+BRACS_1366,BRACS_1366,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1366.pt
+BRACS_1792,BRACS_1792,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1792.pt
+BRACS_1370,BRACS_1370,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1370.pt
+BRACS_1495,BRACS_1495,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1495.pt
+BRACS_1967,BRACS_1967,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1967.pt
+BRACS_1635,BRACS_1635,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1635.pt
+BRACS_1407,BRACS_1407,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1407.pt
+BRACS_1642,BRACS_1642,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1642.pt
+BRACS_1937,BRACS_1937,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1937.pt
+BRACS_1851,BRACS_1851,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1851.pt
+BRACS_1920,BRACS_1920,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1920.pt
+BRACS_1958,BRACS_1958,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1958.pt
+BRACS_1330,BRACS_1330,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1330.pt
+BRACS_1949,BRACS_1949,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1949.pt
+BRACS_1489,BRACS_1489,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1489.pt
+BRACS_3279,BRACS_3279,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3279.pt
+BRACS_1337,BRACS_1337,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1337.pt
+BRACS_3336,BRACS_3336,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3336.pt
+BRACS_1886,BRACS_1886,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1886.pt
+BRACS_1511,BRACS_1511,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1511.pt
+BRACS_3275,BRACS_3275,Benign,Normal,train,bracs_feature_path/BRACS_3275.pt
+BRACS_3313,BRACS_3313,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_3313.pt
+BRACS_1284,BRACS_1284,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1284.pt
+BRACS_1261,BRACS_1261,Benign,Normal,train,bracs_feature_path/BRACS_1261.pt
+BRACS_1970,BRACS_1970,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1970.pt
+BRACS_3324,BRACS_3324,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3324.pt
+BRACS_3309,BRACS_3309,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3309.pt
+BRACS_1825,BRACS_1825,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1825.pt
+BRACS_2005,BRACS_2005,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_2005.pt
+BRACS_1242,BRACS_1242,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1242.pt
+BRACS_1620,BRACS_1620,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1620.pt
+BRACS_1916,BRACS_1916,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1916.pt
+BRACS_3278,BRACS_3278,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_3278.pt
+BRACS_1289,BRACS_1289,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1289.pt
+BRACS_1497,BRACS_1497,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1497.pt
+BRACS_1989,BRACS_1989,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1989.pt
+BRACS_1971,BRACS_1971,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1971.pt
+BRACS_1925,BRACS_1925,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1925.pt
+BRACS_1414,BRACS_1414,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1414.pt
+BRACS_1640,BRACS_1640,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1640.pt
+BRACS_1929,BRACS_1929,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1929.pt
+BRACS_1823,BRACS_1823,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1823.pt
+BRACS_1247,BRACS_1247,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1247.pt
+BRACS_1003671,BRACS_1003671,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003671.pt
+BRACS_1808,BRACS_1808,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1808.pt
+BRACS_1416,BRACS_1416,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1416.pt
+BRACS_1636,BRACS_1636,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1636.pt
+BRACS_1850,BRACS_1850,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1850.pt
+BRACS_1637,BRACS_1637,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1637.pt
+BRACS_1003670,BRACS_1003670,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003670.pt
+BRACS_3281,BRACS_3281,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3281.pt
+BRACS_1515,BRACS_1515,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1515.pt
+BRACS_265,BRACS_265,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_265.pt
+BRACS_1478,BRACS_1478,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1478.pt
+BRACS_1633,BRACS_1633,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1633.pt
+BRACS_1890,BRACS_1890,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1890.pt
+BRACS_1952,BRACS_1952,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1952.pt
+BRACS_1480,BRACS_1480,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1480.pt
+BRACS_1853,BRACS_1853,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1853.pt
+BRACS_1973,BRACS_1973,Benign,Normal,train,bracs_feature_path/BRACS_1973.pt
+BRACS_305,BRACS_305,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_305.pt
+BRACS_1514,BRACS_1514,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1514.pt
+BRACS_1780,BRACS_1780,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1780.pt
+BRACS_1815,BRACS_1815,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1815.pt
+BRACS_1904,BRACS_1904,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1904.pt
+BRACS_3321,BRACS_3321,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3321.pt
+BRACS_3311,BRACS_3311,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3311.pt
+BRACS_310,BRACS_310,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_310.pt
+BRACS_1412,BRACS_1412,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1412.pt
+BRACS_1855,BRACS_1855,Benign,Normal,train,bracs_feature_path/BRACS_1855.pt
+BRACS_3277,BRACS_3277,Benign,Normal,train,bracs_feature_path/BRACS_3277.pt
+BRACS_1581,BRACS_1581,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1581.pt
+BRACS_3317,BRACS_3317,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_3317.pt
+BRACS_1862,BRACS_1862,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1862.pt
+BRACS_1614,BRACS_1614,Benign,Normal,train,bracs_feature_path/BRACS_1614.pt
+BRACS_1857,BRACS_1857,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1857.pt
+BRACS_1594,BRACS_1594,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1594.pt
+BRACS_3323,BRACS_3323,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3323.pt
+BRACS_3283,BRACS_3283,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3283.pt
+BRACS_1982,BRACS_1982,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1982.pt
+BRACS_738,BRACS_738,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_738.pt
+BRACS_740,BRACS_740,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_740.pt
+BRACS_1286,BRACS_1286,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1286.pt
+BRACS_3305,BRACS_3305,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3305.pt
+BRACS_1984,BRACS_1984,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1984.pt
+BRACS_1579,BRACS_1579,Benign,Normal,train,bracs_feature_path/BRACS_1579.pt
+BRACS_1003722,BRACS_1003722,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003722.pt
+BRACS_1842,BRACS_1842,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1842.pt
+BRACS_1498,BRACS_1498,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1498.pt
+BRACS_1775,BRACS_1775,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1775.pt
+BRACS_3335,BRACS_3335,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3335.pt
+BRACS_1003721,BRACS_1003721,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003721.pt
+BRACS_1003707,BRACS_1003707,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1003707.pt
+BRACS_3271,BRACS_3271,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3271.pt
+BRACS_1641,BRACS_1641,Benign,Normal,train,bracs_feature_path/BRACS_1641.pt
+BRACS_1852,BRACS_1852,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1852.pt
+BRACS_1877,BRACS_1877,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1877.pt
+BRACS_1591,BRACS_1591,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1591.pt
+BRACS_1003667,BRACS_1003667,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003667.pt
+BRACS_1656,BRACS_1656,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1656.pt
+BRACS_3274,BRACS_3274,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3274.pt
+BRACS_1616,BRACS_1616,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1616.pt
+BRACS_1796,BRACS_1796,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1796.pt
+BRACS_1921,BRACS_1921,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1921.pt
+BRACS_1875,BRACS_1875,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1875.pt
+BRACS_1507,BRACS_1507,Benign,Normal,train,bracs_feature_path/BRACS_1507.pt
+BRACS_1512,BRACS_1512,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1512.pt
+BRACS_292,BRACS_292,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_292.pt
+BRACS_1863,BRACS_1863,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1863.pt
+BRACS_1895,BRACS_1895,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1895.pt
+BRACS_1003716,BRACS_1003716,Benign,Normal,train,bracs_feature_path/BRACS_1003716.pt
+BRACS_3334,BRACS_3334,Benign,Pathological Benign,train,bracs_feature_path/BRACS_3334.pt
+BRACS_1583,BRACS_1583,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1583.pt
+BRACS_3284,BRACS_3284,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_3284.pt
+BRACS_1965,BRACS_1965,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1965.pt
+BRACS_1295,BRACS_1295,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1295.pt
+BRACS_1942,BRACS_1942,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1942.pt
+BRACS_1493,BRACS_1493,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1493.pt
+BRACS_1589,BRACS_1589,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1589.pt
+BRACS_1003699,BRACS_1003699,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003699.pt
+BRACS_1605,BRACS_1605,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1605.pt
+BRACS_1975,BRACS_1975,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1975.pt
+BRACS_1255,BRACS_1255,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1255.pt
+BRACS_1664,BRACS_1664,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1664.pt
+BRACS_1321,BRACS_1321,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1321.pt
+BRACS_1963,BRACS_1963,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1963.pt
+BRACS_1385,BRACS_1385,Benign,Normal,train,bracs_feature_path/BRACS_1385.pt
+BRACS_1900,BRACS_1900,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1900.pt
+BRACS_1784,BRACS_1784,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1784.pt
+BRACS_1826,BRACS_1826,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1826.pt
+BRACS_1650,BRACS_1650,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1650.pt
+BRACS_747,BRACS_747,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_747.pt
+BRACS_1241,BRACS_1241,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1241.pt
+BRACS_1231,BRACS_1231,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1231.pt
+BRACS_1665,BRACS_1665,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1665.pt
+BRACS_1631,BRACS_1631,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1631.pt
+BRACS_1870,BRACS_1870,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1870.pt
+BRACS_1003724,BRACS_1003724,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003724.pt
+BRACS_1860,BRACS_1860,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1860.pt
+BRACS_1477,BRACS_1477,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1477.pt
+BRACS_1270,BRACS_1270,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1270.pt
+BRACS_1893,BRACS_1893,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1893.pt
+BRACS_1597,BRACS_1597,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1597.pt
+BRACS_1003659,BRACS_1003659,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1003659.pt
+BRACS_1820,BRACS_1820,Benign,Normal,train,bracs_feature_path/BRACS_1820.pt
+BRACS_1774,BRACS_1774,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1774.pt
+BRACS_1848,BRACS_1848,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1848.pt
+BRACS_1250,BRACS_1250,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1250.pt
+BRACS_1362,BRACS_1362,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1362.pt
+BRACS_1845,BRACS_1845,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1845.pt
+BRACS_1829,BRACS_1829,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1829.pt
+BRACS_1003732,BRACS_1003732,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003732.pt
+BRACS_1962,BRACS_1962,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1962.pt
+BRACS_1003673,BRACS_1003673,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003673.pt
+BRACS_300,BRACS_300,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_300.pt
+BRACS_1917,BRACS_1917,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1917.pt
+BRACS_1943,BRACS_1943,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1943.pt
+BRACS_291,BRACS_291,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_291.pt
+BRACS_1919,BRACS_1919,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1919.pt
+BRACS_1595,BRACS_1595,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1595.pt
+BRACS_1485,BRACS_1485,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1485.pt
+BRACS_1865,BRACS_1865,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1865.pt
+BRACS_1592,BRACS_1592,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1592.pt
+BRACS_1836,BRACS_1836,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1836.pt
+BRACS_1003691,BRACS_1003691,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1003691.pt
+BRACS_1666,BRACS_1666,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1666.pt
+BRACS_1483,BRACS_1483,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1483.pt
+BRACS_1972,BRACS_1972,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1972.pt
+BRACS_1838,BRACS_1838,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1838.pt
+BRACS_1293,BRACS_1293,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1293.pt
+BRACS_1334,BRACS_1334,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1334.pt
+BRACS_1263,BRACS_1263,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1263.pt
+BRACS_1238,BRACS_1238,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1238.pt
+BRACS_1930,BRACS_1930,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1930.pt
+BRACS_3290,BRACS_3290,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_3290.pt
+BRACS_1811,BRACS_1811,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1811.pt
+BRACS_1585,BRACS_1585,Benign,Normal,train,bracs_feature_path/BRACS_1585.pt
+BRACS_773,BRACS_773,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_773.pt
+BRACS_1271,BRACS_1271,Atypical,Atypical Ductal Hyperplasia,train,bracs_feature_path/BRACS_1271.pt
+BRACS_1873,BRACS_1873,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1873.pt
+BRACS_1923,BRACS_1923,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_1923.pt
+BRACS_1003713,BRACS_1003713,Benign,Normal,train,bracs_feature_path/BRACS_1003713.pt
+BRACS_1968,BRACS_1968,Atypical,Flat Epithelial Atypia,train,bracs_feature_path/BRACS_1968.pt
+BRACS_1580,BRACS_1580,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1580.pt
+BRACS_1654,BRACS_1654,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1654.pt
+BRACS_1003731,BRACS_1003731,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003731.pt
+BRACS_735,BRACS_735,Malignant,Ductal Carcinoma In Situ,train,bracs_feature_path/BRACS_735.pt
+BRACS_1618,BRACS_1618,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_1618.pt
+BRACS_1318,BRACS_1318,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1318.pt
+BRACS_1612,BRACS_1612,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1612.pt
+BRACS_1593,BRACS_1593,Benign,Pathological Benign,train,bracs_feature_path/BRACS_1593.pt
+BRACS_1978,BRACS_1978,Benign,Normal,train,bracs_feature_path/BRACS_1978.pt
+BRACS_311,BRACS_311,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_311.pt
+BRACS_3289,BRACS_3289,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_3289.pt
+BRACS_3319,BRACS_3319,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_3319.pt
+BRACS_1320,BRACS_1320,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1320.pt
+BRACS_1994,BRACS_1994,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1994.pt
+BRACS_749,BRACS_749,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_749.pt
+BRACS_1647,BRACS_1647,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1647.pt
+BRACS_1249,BRACS_1249,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1249.pt
+BRACS_1003714,BRACS_1003714,Benign,Normal,val,bracs_feature_path/BRACS_1003714.pt
+BRACS_1785,BRACS_1785,Benign,Usual Ductal Hyperplasia,val,bracs_feature_path/BRACS_1785.pt
+BRACS_3266,BRACS_3266,Atypical,Flat Epithelial Atypia,val,bracs_feature_path/BRACS_3266.pt
+BRACS_1839,BRACS_1839,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1839.pt
+BRACS_1413,BRACS_1413,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1413.pt
+BRACS_1959,BRACS_1959,Benign,Usual Ductal Hyperplasia,val,bracs_feature_path/BRACS_1959.pt
+BRACS_1361,BRACS_1361,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1361.pt
+BRACS_1275,BRACS_1275,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1275.pt
+BRACS_3312,BRACS_3312,Benign,Pathological Benign,val,bracs_feature_path/BRACS_3312.pt
+BRACS_1881,BRACS_1881,Benign,Usual Ductal Hyperplasia,val,bracs_feature_path/BRACS_1881.pt
+BRACS_1830,BRACS_1830,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1830.pt
+BRACS_1835,BRACS_1835,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1835.pt
+BRACS_1986,BRACS_1986,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1986.pt
+BRACS_1610,BRACS_1610,Atypical,Flat Epithelial Atypia,val,bracs_feature_path/BRACS_1610.pt
+BRACS_1914,BRACS_1914,Benign,Usual Ductal Hyperplasia,val,bracs_feature_path/BRACS_1914.pt
+BRACS_3285,BRACS_3285,Atypical,Flat Epithelial Atypia,val,bracs_feature_path/BRACS_3285.pt
+BRACS_1878,BRACS_1878,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1878.pt
+BRACS_3302,BRACS_3302,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_3302.pt
+BRACS_1997,BRACS_1997,Benign,Usual Ductal Hyperplasia,val,bracs_feature_path/BRACS_1997.pt
+BRACS_1003658,BRACS_1003658,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1003658.pt
+BRACS_1932,BRACS_1932,Atypical,Atypical Ductal Hyperplasia,val,bracs_feature_path/BRACS_1932.pt
+BRACS_1849,BRACS_1849,Atypical,Atypical Ductal Hyperplasia,val,bracs_feature_path/BRACS_1849.pt
+BRACS_1812,BRACS_1812,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1812.pt
+BRACS_1653,BRACS_1653,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1653.pt
+BRACS_1253,BRACS_1253,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1253.pt
+BRACS_1840,BRACS_1840,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1840.pt
+BRACS_1228,BRACS_1228,Atypical,Atypical Ductal Hyperplasia,val,bracs_feature_path/BRACS_1228.pt
+BRACS_1788,BRACS_1788,Atypical,Flat Epithelial Atypia,val,bracs_feature_path/BRACS_1788.pt
+BRACS_2004,BRACS_2004,Benign,Pathological Benign,val,bracs_feature_path/BRACS_2004.pt
+BRACS_1922,BRACS_1922,Atypical,Atypical Ductal Hyperplasia,val,bracs_feature_path/BRACS_1922.pt
+BRACS_1491,BRACS_1491,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1491.pt
+BRACS_1273,BRACS_1273,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1273.pt
+BRACS_1003728,BRACS_1003728,Atypical,Atypical Ductal Hyperplasia,val,bracs_feature_path/BRACS_1003728.pt
+BRACS_281,BRACS_281,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_281.pt
+BRACS_1394,BRACS_1394,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1394.pt
+BRACS_1003675,BRACS_1003675,Benign,Normal,val,bracs_feature_path/BRACS_1003675.pt
+BRACS_1267,BRACS_1267,Benign,Normal,val,bracs_feature_path/BRACS_1267.pt
+BRACS_1587,BRACS_1587,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1587.pt
+BRACS_1369,BRACS_1369,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1369.pt
+BRACS_1828,BRACS_1828,Malignant,Invasive Carcinoma,val,bracs_feature_path/BRACS_1828.pt
+BRACS_1240,BRACS_1240,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1240.pt
+BRACS_1814,BRACS_1814,Atypical,Flat Epithelial Atypia,val,bracs_feature_path/BRACS_1814.pt
+BRACS_1926,BRACS_1926,Atypical,Flat Epithelial Atypia,val,bracs_feature_path/BRACS_1926.pt
+BRACS_1602,BRACS_1602,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1602.pt
+BRACS_1872,BRACS_1872,Malignant,Ductal Carcinoma In Situ,val,bracs_feature_path/BRACS_1872.pt
+BRACS_1847,BRACS_1847,Benign,Pathological Benign,val,bracs_feature_path/BRACS_1847.pt
+BRACS_1003693,BRACS_1003693,Atypical,Flat Epithelial Atypia,val,bracs_feature_path/BRACS_1003693.pt
+BRACS_1406,BRACS_1406,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_1406.pt
+BRACS_3314,BRACS_3314,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_3314.pt
+BRACS_1974,BRACS_1974,Benign,Normal,test,bracs_feature_path/BRACS_1974.pt
+BRACS_1272,BRACS_1272,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_1272.pt
+BRACS_3320,BRACS_3320,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_3320.pt
+BRACS_1927,BRACS_1927,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_1927.pt
+BRACS_1899,BRACS_1899,Atypical,Atypical Ductal Hyperplasia,test,bracs_feature_path/BRACS_1899.pt
+BRACS_748,BRACS_748,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_748.pt
+BRACS_3272,BRACS_3272,Benign,Pathological Benign,test,bracs_feature_path/BRACS_3272.pt
+BRACS_1403,BRACS_1403,Benign,Normal,test,bracs_feature_path/BRACS_1403.pt
+BRACS_1003725,BRACS_1003725,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1003725.pt
+BRACS_1947,BRACS_1947,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_1947.pt
+BRACS_1659,BRACS_1659,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1659.pt
+BRACS_3291,BRACS_3291,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_3291.pt
+BRACS_3298,BRACS_3298,Benign,Pathological Benign,test,bracs_feature_path/BRACS_3298.pt
+BRACS_1606,BRACS_1606,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1606.pt
+BRACS_2000,BRACS_2000,Benign,Pathological Benign,test,bracs_feature_path/BRACS_2000.pt
+BRACS_737,BRACS_737,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_737.pt
+BRACS_1980,BRACS_1980,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1980.pt
+BRACS_1424,BRACS_1424,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1424.pt
+BRACS_3276,BRACS_3276,Benign,Pathological Benign,test,bracs_feature_path/BRACS_3276.pt
+BRACS_1901,BRACS_1901,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1901.pt
+BRACS_1787,BRACS_1787,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1787.pt
+BRACS_2007,BRACS_2007,Atypical,Flat Epithelial Atypia,test,bracs_feature_path/BRACS_2007.pt
+BRACS_1607,BRACS_1607,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_1607.pt
+BRACS_1288,BRACS_1288,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_1288.pt
+BRACS_1955,BRACS_1955,Atypical,Flat Epithelial Atypia,test,bracs_feature_path/BRACS_1955.pt
+BRACS_1915,BRACS_1915,Atypical,Atypical Ductal Hyperplasia,test,bracs_feature_path/BRACS_1915.pt
+BRACS_757,BRACS_757,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_757.pt
+BRACS_3270,BRACS_3270,Benign,Pathological Benign,test,bracs_feature_path/BRACS_3270.pt
+BRACS_1897,BRACS_1897,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_1897.pt
+BRACS_1652,BRACS_1652,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_1652.pt
+BRACS_1950,BRACS_1950,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_1950.pt
+BRACS_1789,BRACS_1789,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1789.pt
+BRACS_1003723,BRACS_1003723,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_1003723.pt
+BRACS_1474,BRACS_1474,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_1474.pt
+BRACS_1276,BRACS_1276,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1276.pt
+BRACS_3318,BRACS_3318,Atypical,Atypical Ductal Hyperplasia,test,bracs_feature_path/BRACS_3318.pt
+BRACS_2002,BRACS_2002,Benign,Pathological Benign,test,bracs_feature_path/BRACS_2002.pt
+BRACS_1596,BRACS_1596,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1596.pt
+BRACS_1484,BRACS_1484,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_1484.pt
+BRACS_1003705,BRACS_1003705,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1003705.pt
+BRACS_1401,BRACS_1401,Benign,Normal,test,bracs_feature_path/BRACS_1401.pt
+BRACS_1896,BRACS_1896,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1896.pt
+BRACS_3293,BRACS_3293,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_3293.pt
+BRACS_1837,BRACS_1837,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1837.pt
+BRACS_1940,BRACS_1940,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1940.pt
+BRACS_1513,BRACS_1513,Benign,Normal,test,bracs_feature_path/BRACS_1513.pt
+BRACS_756,BRACS_756,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_756.pt
+BRACS_1329,BRACS_1329,Benign,Pathological Benign,test,bracs_feature_path/BRACS_1329.pt
+BRACS_1492,BRACS_1492,Malignant,Ductal Carcinoma In Situ,test,bracs_feature_path/BRACS_1492.pt
+BRACS_1933,BRACS_1933,Atypical,Atypical Ductal Hyperplasia,test,bracs_feature_path/BRACS_1933.pt
+BRACS_1824,BRACS_1824,Benign,Usual Ductal Hyperplasia,test,bracs_feature_path/BRACS_1824.pt
+BRACS_1487,BRACS_1487,Malignant,Invasive Carcinoma,test,bracs_feature_path/BRACS_1487.pt

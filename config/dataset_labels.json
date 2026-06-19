@@ -1,0 +1,50 @@
+{
+  "BRACS": {
+    "coarse": [
+      "benign",
+      "atypical",
+      "malignant"
+    ],
+    "fine": [
+      "normal",
+      "pathological benign",
+      "usual ductal hyperplasia",
+      "atypical ductal hyperplasia",
+      "flat epithelial atypia",
+      "ductal carcinoma in situ",
+      "invasive carcinoma"
+    ],
+    "hierarchy": {
+      "normal": "benign",
+      "pathological benign": "benign",
+      "usual ductal hyperplasia": "benign",
+      "atypical ductal hyperplasia": "atypical",
+      "flat epithelial atypia": "atypical",
+      "ductal carcinoma in situ": "malignant",
+      "invasive carcinoma": "malignant"
+    }
+  },
+  "PANDA": {
+    "coarse": [
+      "normal and low risk",
+      "intermediate risk",
+      "high risk"
+    ],
+    "fine": [
+      "normal",
+      "low risk, ISUP grade 1",
+      "intermediate favourable risk, ISUP grade 2",
+      "intermediate unfavourable risk, ISUP grade 3",
+      "high risk, ISUP grade 4",
+      "the highest risk, ISUP grade 5"
+    ],
+    "hierarchy": {
+      "normal": "normal and low risk",
+      "low risk, ISUP grade 1": "normal and low risk",
+      "intermediate favourable risk, ISUP grade 2": "intermediate risk",
+      "intermediate unfavourable risk, ISUP grade 3": "intermediate risk",
+      "high risk, ISUP grade 4": "high risk",
+      "the highest risk, ISUP grade 5": "high risk"
+    }
+  }
+}

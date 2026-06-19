@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Logs and experiment trackers
+*.log
+logs/
+wandb/
+runs/
+
+# Model checkpoints and generated artifacts
+checkpoints/
+outputs/
+results/
+*.ckpt
+*.pth
+*.pt
+
+# Feature/data artifacts
+*_feature_path/
+features/
+data/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
