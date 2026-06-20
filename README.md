@@ -105,7 +105,7 @@ If you find this repository useful, please consider citing our paper:
 ```bibtex
 @inproceedings{taxomil2026,
   title     = {TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis},
-  author    = {Lee, Chaeyeon and Nguyen Quoc, Khang and Song, Jinsol and Chong, Yosep and Yim, Kwangil and others},
+  author    = {Lee, Chaeyeon and Nguyen Quoc, Khang and Song, Jinsol and Chong, Yosep and Yim, Kwangil and Kwak, Jin Tae},
   booktitle = {European Conference on Computer Vision},
   year      = {2026}
 }
