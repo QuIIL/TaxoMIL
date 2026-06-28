@@ -64,7 +64,7 @@ class UNI_PathDataset(Dataset):
       - split: train/val/test
       - coarse_label
       - fine_label
-      - UNI_features_path: .pt file path
+      - feature_path: .pt file path
     """
 
     def __init__(
@@ -73,7 +73,7 @@ class UNI_PathDataset(Dataset):
         csv_path: str,
         split: str,
         tokenizer,
-        path_col: str = "UNI_features_path",
+        path_col: str = "feature_path",
         split_col: str = "split",
         coarse_col: str = "coarse_label",
         fine_col: str = "fine_label",

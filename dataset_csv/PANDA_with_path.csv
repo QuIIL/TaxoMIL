@@ -1,4 +1,4 @@
-slide_id,coarse_label,fine_label,split,UNI_features_path
+slide_id,coarse_label,fine_label,split,feature_path
 0005f7aaab2800f6170c399693a96917,normal and low risk,normal,train,panda_feature_path/0005f7aaab2800f6170c399693a96917.pt
 000920ad0b612851f8e01bcc880d9b3d,normal and low risk,normal,test,panda_feature_path/000920ad0b612851f8e01bcc880d9b3d.pt
 0018ae58b01bdadc8e347995b69f99aa,high risk,"high risk, ISUP grade 4",train,panda_feature_path/0018ae58b01bdadc8e347995b69f99aa.pt

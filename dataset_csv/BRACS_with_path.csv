@@ -1,4 +1,4 @@
-case_id,slide_id,coarse_label,fine_label,split,UNI_features_path
+case_id,slide_id,coarse_label,fine_label,split,feature_path
 BRACS_3273,BRACS_3273,Benign,Usual Ductal Hyperplasia,train,bracs_feature_path/BRACS_3273.pt
 BRACS_1357,BRACS_1357,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1357.pt
 BRACS_1003677,BRACS_1003677,Malignant,Invasive Carcinoma,train,bracs_feature_path/BRACS_1003677.pt

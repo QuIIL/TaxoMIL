@@ -34,7 +34,7 @@ TaxoMIL uses pre-extracted WSI feature bags as input.
 Each CSV file should contain the following fields:
 
 ```text
-split,coarse_label,fine_label,UNI_features_path
+split,coarse_label,fine_label,feature_path
 ```
 
 Example:
@@ -94,8 +94,7 @@ TaxoMIL/
 ├── dataloader/
 ├── trainer/
 ├── utils/
-├── config/
-└── assets/
+└── config/
 ```
 
 ## Citation
