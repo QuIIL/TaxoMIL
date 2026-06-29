@@ -84,19 +84,6 @@ python main.py \
   --ckpt_path checkpoints/BRACS/model.pth
 ```
 
-## Repository Structure
-
-```text
-TaxoMIL/
-├── main.py
-├── decoder.py
-├── aggregator/
-├── dataloader/
-├── trainer/
-├── utils/
-└── config/
-```
-
 ## Citation
 
 If you find this repository useful, please consider citing our paper:
