@@ -2,7 +2,7 @@
 
 Official implementation of **TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis**.
 
-<img width="2957" height="1241" alt="pipeline" src="https://github.com/user-attachments/assets/c01c9a18-9121-45a6-91e7-1f53aa9f04d2" />
+<img width="2957" height="1241" alt="pipeline" src="figs/model.jpg" />
 
 
 ## Framework
